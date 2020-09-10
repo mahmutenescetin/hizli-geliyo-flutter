@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hizligeliyo/login_page.dart';
+import 'file:///C:/Users/NoLimiT/Desktop/hizligeliyo/lib/ui/login_page.dart';
 
 void main() {
   runApp(MyApp());

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:hizligeliyo/product_list.dart';
+import 'file:///C:/Users/NoLimiT/Desktop/hizligeliyo/lib/ui/product_list.dart';
 
 class LoginPage extends StatefulWidget {
   static String tag = 'login-page';
